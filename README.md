@@ -21,15 +21,15 @@ It is designed for workflows such as repeatedly running `flutter run`, `flutter 
 
 ## Install
 
-Download and run:
+Download and run the latest installer:
 
-[`release/SnippetDropper-Setup.exe`](release/SnippetDropper-Setup.exe)
+[`SnippetDropper-Setup.exe`](https://github.com/pv-vimalnair/SnippetDropper/releases/latest/download/SnippetDropper-Setup.exe)
 
 The installer creates Start Menu and optional Desktop shortcuts, then launches the app.
 
 For a portable launch without installation, run:
 
-[`release/SnippetDropper.exe`](release/SnippetDropper.exe)
+[`SnippetDropper.exe`](https://github.com/pv-vimalnair/SnippetDropper/releases/latest/download/SnippetDropper.exe)
 
 ## How To Use
 
@@ -108,4 +108,3 @@ The build creates:
 - `release\SnippetDropper-Setup.exe`
 
 See [technical design](docs/TECHNICAL_DESIGN.md) for implementation details and limitations.
-
